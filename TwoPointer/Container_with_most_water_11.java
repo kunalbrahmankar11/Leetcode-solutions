@@ -1,6 +1,6 @@
 package TwoPointer;
 
-public class Container_with_most_water_12 {
+public class Container_with_most_water_11 {
     public static int MostWater(int height[]){
         int left = 0;
         int right = height.length-1;
